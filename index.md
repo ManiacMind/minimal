@@ -12,6 +12,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 <center><img src="assets/img/ml.jpg"/></center>
 
+---
 ### House price Prediction
 (Sample)
 Build a Linear Regression Model for prediction of House Prices.The model was trained and tested with a data set and the accuracy and error values are calculated
