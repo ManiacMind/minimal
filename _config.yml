@@ -1,6 +1,18 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Praneeth Kumar</p>
+logo: /assets/img/logo.JPG
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+  
+  <br>   
+Experienced Software Engineer with a demonstrated history of working in Health care industry.
+Skilled in Java, Rest API microservices using Springboot framework and a Certified Developer in TigerGraph.
+Also having keen interest and zeal to learn on Concepts of Analytics using Python , ML , AI combined with Big Data Problems using Spark,Pyspark.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
